@@ -20,7 +20,7 @@
   "dependencies": {
     "blume": "2.2.3",
     "class-variance-authority": "0.7.1",
-    "cn": "^0.4.0",
+    "cn": "^0.5.2",
     "lucide-react": "1.59.0",
     "motion": "14.4.0",
     "radix-ui": "^1.8.1",
